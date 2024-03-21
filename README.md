@@ -52,14 +52,14 @@ Necessario no sistema tem q ter:
   
 ## Reuniões
 
-- **Reunião Diária** - [Horário: DD/MM/AAAA, HH:MM]
-  - [Breve resumo do que foi discutido]
+- **Reunião Diária** - Horário: 20/03/2024, 20:00
+  - Habilidades fortes da equipe.
 
-- **Revisão da Sprint** - [Horário: DD/MM/AAAA, HH:MM]
-  - [Breve resumo do que foi discutido]
+- **Revisão da Sprint** - Horário: 30/03/2024, 16:00
+  - 
 
-- **Retrospectiva da Sprint** - [Horário: DD/MM/AAAA, HH:MM]
-  - [Breve resumo do que foi discutido]
+- **Retrospectiva da Sprint** - Horário: 31/03/2024, 16:00
+  - 
 
 ## Recursos
 - JIRA SOFTWARE - Tasks do PIM (Scrum Planejamento) - https://fazendasurbanas.atlassian.net/jira/software/projects/SCRUM/boards/1
