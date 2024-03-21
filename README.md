@@ -43,8 +43,7 @@ Necessario no sistema tem q ter:
 - O sistema deve garantir a conformidade com regulamentações de Segurança Alimentar.
 
 ## Sprint Atual
-### Sprint [Número da Sprint] - [Data de Início] a [Data de Término]
-
+### Sprint 1 - [Data de Início] a [Data de Término]
 
 - **[Nome da Tarefa]** - [Descrição breve da tarefa]
   - Responsável: @[Nome do Responsável]
