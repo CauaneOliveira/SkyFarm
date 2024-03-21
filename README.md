@@ -13,20 +13,20 @@ Necessario no sistema tem q ter:
 
 ## Backlog do Produto
 **Tópico 1: Controle de Fornecedores**
-1.1. Criar um banco de dados de fornecedores que inclua informações como nome, contato, produtos fornecidos...
-1.2. Desenvolver uma interface para cadastro, edição e exclusão de fornecedores.
-1.3. Implementar funcionalidades de busca para facilitar a localização de fornecedores específicos.
-1.4. Integrar um sistema de avaliação de fornecedores com base na qualidade dos produtos, pontualidade nas entregas.
+- Criar um banco de dados de fornecedores que inclua informações como nome, contato, produtos fornecidos...
+- Desenvolver uma interface para cadastro, edição e exclusão de fornecedores.
+- Implementar funcionalidades de busca para facilitar a localização de fornecedores específicos.
+- Integrar um sistema de avaliação de fornecedores com base na qualidade dos produtos, pontualidade nas entregas.
 
 **Tópico 2: Gerenciamento da Produção**
-2.1. Monitorar o ciclo de produção de cada cultura cultivada.
-2.2. Implementar funcionalidades para registrar dados como nome,datas de plantio, colheita, quantidade produzida.
-2.3. Desenvolver gráficos e relatórios para visualização e análise dos dados de produção ao longo do tempo.
-2.4. Integrar alertas automatizados para indicar problemas potenciais na produção, como pragas, doenças ou condições climáticas adversas.
+- Monitorar o ciclo de produção de cada cultura cultivada.
+- Implementar funcionalidades para registrar dados como nome,datas de plantio, colheita, quantidade produzida.
+- Desenvolver gráficos e relatórios para visualização e análise dos dados de produção ao longo do tempo.
+- Integrar alertas automatizados para indicar problemas potenciais na produção, como pragas, doenças ou condições climáticas adversas.
 
 **Tópico 3: Prestação de Serviços**
-1.1. Integrar um sistema de gestão de estoque para controlar a disponibilidade dos produtos para venda.
-1.2. Implementação de Consultoria em Segurança Alimentar
+- Integrar um sistema de gestão de estoque para controlar a disponibilidade dos produtos para venda.
+- Implementação de Consultoria em Segurança Alimentar
 
 ## Backlog Técnico 
 - Banco de Dados: SQL para armazenar informações sobre fornecedores, produção e serviços.
@@ -35,7 +35,7 @@ Necessario no sistema tem q ter:
 - Realizar testes de integração e aceitação para validar o funcionamento correto do sistema.
 - Garantir a conformidade com regulamentações de Segurança Alimentar e Proteção de Dados.
 
-##Critérios de Aceitação
+## Critérios de Aceitação
 - Os usuários devem conseguir cadastrar, editar e excluir fornecedores de forma intuitiva.
 - O sistema deve apresentar relatórios claros e precisos sobre a produção em diferentes períodos de tempo.
 - As transações de venda devem ser registradas corretamente no sistema, atualizando automaticamente o estoque disponível.
