@@ -42,24 +42,6 @@ Necessario no sistema tem q ter:
 - O sistema deve garantir a segurança dos dados dos clientes e fornecedores, conforme as regulamentações aplicáveis.
 - O sistema deve garantir a conformidade com regulamentações de Segurança Alimentar.
 
-## Sprint Atual
-### Sprint 1 - [Data de Início] a [Data de Término]
-
-- **[Nome da Tarefa]** - [Descrição breve da tarefa]
-  - Responsável: @[Nome do Responsável]
-  - Status: [Em andamento / Concluído / Bloqueado]
-  
-## Reuniões
-
-- **Reunião Diária** - Horário: 20/03/2024, 20:00
-  - Habilidades fortes da equipe.
-
-- **Revisão da Sprint** - Horário: 30/03/2024, 16:00
-  - 
-
-- **Retrospectiva da Sprint** - Horário: 31/03/2024, 16:00
-  - 
-
 ## Recursos
 - JIRA SOFTWARE - Tasks do PIM (Scrum Planejamento) - https://fazendasurbanas.atlassian.net/jira/software/projects/SCRUM/boards/1
 - PASTA NO DRIVE (PIMIII): https://drive.google.com/drive/folders/1hOkrAc1J_VvBL37-eNdUoMG9naMr56nh?usp=sharing
