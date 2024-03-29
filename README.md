@@ -31,12 +31,12 @@ Necessario no sistema tem q ter:
 - Desenvolvimento de Gráficos;
 - Exportação de Dados.
 
-**Tópico 4: Integrar um sistema de gestão de estoque para controlar a disponibilidade dos produtos para venda.**
+**Tópico 4: Integrar um sistema de gestão de estoque para controlar a disponibilidade dos produtos para venda**
 - Gestão de Inventário;
 - Controle de Disponibilidade;
 - Relatórios de Gestão de Estoque.
 
-**Tópico 5: Integrar alertas automatizados para indicar condições climáticas adequadas para o plantio  **
+**Tópico 5: Integrar alertas automatizados para indicar condições climáticas adequadas para o plantio**
 - Geração de Alertas Automatizados;
 - Notificação aos Usuários.
 
