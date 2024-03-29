@@ -12,21 +12,33 @@ Necessario no sistema tem q ter:
 
 
 ## Backlog do Produto
-**Tópico 1: Controle de Fornecedores**
-- Criar um banco de dados de fornecedores que inclua informações como nome, contato, produtos fornecidos...
-- Desenvolver uma interface para cadastro, edição e exclusão de fornecedores.
-- Implementar funcionalidades de busca para facilitar a localização de fornecedores específicos.
-- Integrar um sistema de avaliação de fornecedores com base na qualidade dos produtos, pontualidade nas entregas.
+**Tópico 1: Controle de Fornecedores (cadastro, edição, busca e exclusão)**
+- Cadastro de Fornecedores;
+- Validação de Dados;
+- Edição de Fornecedores;
+- Busca de Fornecedores;
+- Exclusão de Fornecedores;
+- Gerenciamento de Permissões.
 
-**Tópico 2: Gerenciamento da Produção**
-- Monitorar o ciclo de produção de cada cultura cultivada.
-- Implementar funcionalidades para registrar dados como nome,datas de plantio, colheita, quantidade produzida.
-- Desenvolver gráficos e relatórios para visualização e análise dos dados de produção ao longo do tempo.
-- Integrar alertas automatizados para indicar problemas potenciais na produção, como pragas, doenças ou condições climáticas adversas.
+**Tópico 2: Monitorar o Ciclo de Produção de cada cultura cultivada, com tempo pré definido**
+- Cadastro de Culturas;
+- Definição do Cronograma;
+- Acompanhamento do Progresso;
+- Coleta de Dados.
 
-**Tópico 3: Prestação de Serviços**
-- Integrar um sistema de gestão de estoque para controlar a disponibilidade dos produtos para venda.
-- Implementação de Consultoria em Segurança Alimentar
+**Tópico 3: Desenvolver gráficos ou relatórios para visualização e análise dos dados de produção ao longo do tempo de cada cultura**
+- Identificação de Métricas-Chave;
+- Desenvolvimento de Gráficos;
+- Exportação de Dados.
+
+**Tópico 4: Integrar um sistema de gestão de estoque para controlar a disponibilidade dos produtos para venda.**
+- Gestão de Inventário;
+- Controle de Disponibilidade;
+- Relatórios de Gestão de Estoque.
+
+**Tópico 5: Integrar alertas automatizados para indicar condições climáticas adequadas para o plantio  **
+- Geração de Alertas Automatizados;
+- Notificação aos Usuários.
 
 ## Backlog Técnico 
 - Banco de Dados: SQL para armazenar informações sobre fornecedores, produção e serviços.
@@ -37,8 +49,8 @@ Necessario no sistema tem q ter:
 
 ## Critérios de Aceitação
 - Os usuários devem conseguir cadastrar, editar e excluir fornecedores de forma intuitiva.
+- Gestao adquada da produção dos cultivos
 - O sistema deve apresentar relatórios claros e precisos sobre a produção em diferentes períodos de tempo.
-- As transações de venda devem ser registradas corretamente no sistema, atualizando automaticamente o estoque disponível.
 - O sistema deve garantir a segurança dos dados dos clientes e fornecedores, conforme as regulamentações aplicáveis.
 - O sistema deve garantir a conformidade com regulamentações de Segurança Alimentar.
 
