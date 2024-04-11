@@ -60,6 +60,6 @@ Necessario no sistema tem q ter:
 ## Equipe
 - **Scrum Master:** @BuSilv
 - **Product Owner:** @CauaneOliveira
-- **Membros da Equipe:**
+- **Dev Team:**
   - @Eduarda
   - @CaioPichler
