@@ -12,12 +12,11 @@ Necessario no sistema tem q ter:
 
 
 ## Backlog do Produto
-**Tópico 1: Controle de Fornecedores (cadastro, edição, busca e exclusão)**
+**Tópico 1: Controle de Fornecedores (cadastro, edição, busca)**
 - Cadastro de Fornecedores;
 - Validação de Dados;
 - Edição de Fornecedores;
 - Busca de Fornecedores;
-- Exclusão de Fornecedores;
 - Gerenciamento de Permissões.
 
 **Tópico 2: Monitorar o Ciclo de Produção de cada cultura cultivada, com tempo pré definido**
