@@ -1,0 +1,19 @@
+Tasks:
+
+- Objetivo geral - (Cauane)
+Desenvolvimento da coumentação dos objetivos gerais do projeto.
+
+- Objetivos específicos - (Cauane)
+Desenvolvimento da coumentação dos objetivos específicos do projeto.
+
+- Busca de Fornecedores - CRUD (C#) - (Caio)
+Criação da funcionalidade de consultar os fornecedores.
+
+- Der - Produção e disponibilidade de vendas - (Bruna)
+Desenvolvimento do diagrama de entidade e relacionamento do projeto nas partes de produção e vendas.
+
+- Interface de cadastro, edição e busca de itens - (Eduarda)
+Criação da interface com as funcionalidades de CRUD para itens.
+
+- Interface de apresentação de dados dos itens - (Eduarda)
+Criação da interface que realiza a consulta das informações dos itens.
