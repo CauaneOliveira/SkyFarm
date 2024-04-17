@@ -1,0 +1,16 @@
+Tasks:
+
+- Modelo relacional - Produção e disponibilidade de vendas - (Bruna)
+Criação do modelo relacional (MER) da produção e vendas do projeto, com as entidades, relacionamentos, atributos e cardinalidade.
+
+- Caso de uso - disponibilidade de vendas - (Caio)
+Desenvolvimento do caso de uso de vendas.
+
+- CRUD de culturas - (Caio)
+Desenvolvimento das funcionalidades do CRUD (Cadastro, Consulta, Edição apenas) em culturas.
+
+- Conteúdo e requisitos do projeto - (Cauane)
+Criação da documentação do projeto na parte do conteúdo e os requisito0s.
+
+- Interface de disponibilidade - (Eduarda)
+Criação de tela para apresentar a dispobinilidade de vendas.
