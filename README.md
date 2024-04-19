@@ -3,7 +3,7 @@
 ## Descrição
 Fazendas urbanas são espaços concebidos e otimizados para a produção de frutas, hortaliças e vegetais diversos em meio a grandes cidades. As produções são verticalizadas e podem ser instaladas nas coberturas dos prédios ou em estufas agrícolas anexas às edificações.
 
-Nos somos uma SkyFarm Technologies (start-up) que fazemos o levantamento e analisamos as requisições para desenvolver um sistema para as fazendas urbanas que buscam inovação, um sistema de controle de gestão, pra área de segurança alimentar.
+Nos somos uma SkyFarm Technologies que fazemos o levantamento e analisamos as requisições para desenvolver um sistema para as fazendas urbanas que buscam inovação, um sistema de controle de gestão, pra área de segurança alimentar.
 
 Necessario no sistema tem q ter:
  - Controle de fornecedores;
@@ -55,7 +55,6 @@ Necessario no sistema tem q ter:
 
 ## Recursos
 - JIRA SOFTWARE - Tasks do PIM (Scrum Planejamento) - https://fazendasurbanas.atlassian.net/jira/software/projects/SCRUM/boards/1
-- PASTA NO DRIVE (PIMIII): https://drive.google.com/drive/folders/1hOkrAc1J_VvBL37-eNdUoMG9naMr56nh?usp=sharing
 - Interface Figma: https://www.figma.com/file/28gsd8QRZt9e3q6m2GzM1c/Untitled?type=design&node-id=0-1&mode=design&t=pALKxUwjtSoSAoVX-0
 
 ## Equipe
