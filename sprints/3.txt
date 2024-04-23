@@ -1,22 +1,22 @@
 Tasks:
 
-- SQL - Banco de dados - Fornecedores (Bruna)
+- SQL - Banco de dados - Fornecedores (Bruna) - (1 dia, 1 hora)
 Desenvolvimento do código do banco de dados com as tabelas especificas dos relacionamentos da entidade fornecedor, cliente, contato e produto/pedido.
 
-- Caso de uso de produção (Bruna)
+- Caso de uso de produção (Bruna) -  (2 dias, 2 horas)
 Criação do diagrama do caso de uso da função do sistema no cultivo do plantio, possibilitando o monitoramento.
 
-- Caso de uso edição - fornecedores (Cauane)
+- Caso de uso edição - fornecedores (Cauane) - (1 dia, 1 hora)
 Criação do diagrama do caso de uso da função do sistema na edição de fornecedores.
 
-- Caso de uso busca - fornecedores (Cauane)
+- Caso de uso busca - fornecedores (Cauane) - (1 dia, 1 hora)
 Criação do diagrama do caso de uso da função do sistema na consulta de fornecedores.
 
-- Interface de cadastro de fornecedores (Eduarda)
+- Interface de cadastro de fornecedores (Eduarda) - (2 dias, 3 horas)
 Prototipação de uma interface para a realização do cadastro de novos fornecedores ao sistema.
 
-- Interface de edição de fornecedores (Eduarda)
+- Interface de edição de fornecedores (Eduarda) - (2 dias, 2 horas)
 Prototipação de uma interface que possibilite a edição de informação no cadastro dos fornecedores.
 
-- Edição de fornecedores - CRUD (C#) (Caio)
+- Edição de fornecedores - CRUD (C#) (Caio) - (4 dias, 4 horas)
 Desenvolvimento em C# da funcionalidade de edição (update) de fornecedores.
