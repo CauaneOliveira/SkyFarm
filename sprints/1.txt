@@ -2,14 +2,14 @@ Tópico 1 - Controle de Fornecedores
 
 Tasks:
 
-- Diagrama ER Entidade – Relacionamento - Fornecedores (Bruna)
+- Diagrama ER Entidade – Relacionamento - Fornecedores (Bruna) - (3 dias, 4 horas)
 Montagem do modelo conceitual de entidade e relacionamento de fornecedores, exibindo as cardinalidades dos relacionamentos, atributos e relações com os usuários da fazenda.
 
-- Pesquisar sobre o crud(c#) (Caio)
+- Pesquisar sobre o crud(c#) (Caio) - (1 dia, 2 horas)
 Pesquisa aprofundada sobre os requisitos do cadastro de fornecedores no sistema, identificando os campos obrigatórios e informações adicionais.
 
-- Esboços das Telas - Fornecedores (Eduarda)
+- Esboços das Telas - Fornecedores (Eduarda) - (4 dias, 4 horas)
 Realização da criação dos rascunhos iniciais da tela de fornecedores, montagem da tela principal com informações de cadastro, edição, remover e consulta de fornecedores e produtos.
 
-- Diagrama Caso de Uso - Fornecedores (Cauane)
+- Diagrama Caso de Uso - Fornecedores (Cauane) - (3 dias, 3 horas)
 Criação do diagrama de caso de uso de fornecedores seguindo as ações e relações necessárias e possíveis do sistema.
