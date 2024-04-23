@@ -1,9 +1,9 @@
 Tasks:
 
-- Caracterização da empresa - (Cauane)
+- Diagrama de classe - Fornecedor - (Cauane)
 
-- Desenvolvimento do projeto - (Bruna)
+- Diagrama de classe - Produção - (Bruna)
 
-- Considerações finais e referências - (Eduarda)
+- Diagrama de classe - Disponibilidade - (Eduarda)
 
-- Sumario e resumo - (Caio)
+- Diagrama de classe - Disponibilidade - (Caio)
