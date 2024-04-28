@@ -54,7 +54,6 @@ Necessario no sistema tem q ter:
 - O sistema deve garantir a conformidade com regulamentações de Segurança Alimentar.
 
 ## Recursos
-- JIRA SOFTWARE - Tasks do PIM (Scrum Planejamento) - https://fazendasurbanas.atlassian.net/jira/software/projects/SCRUM/boards/1
 - Interface Figma: https://www.figma.com/file/28gsd8QRZt9e3q6m2GzM1c/Untitled?type=design&node-id=0-1&mode=design&t=pALKxUwjtSoSAoVX-0
 
 ## Equipe
