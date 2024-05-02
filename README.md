@@ -3,7 +3,7 @@
 ## Descrição
 Fazendas urbanas são espaços concebidos e otimizados para a produção de frutas, hortaliças e vegetais diversos em meio a grandes cidades. As produções são verticalizadas e podem ser instaladas nas coberturas dos prédios ou em estufas agrícolas anexas às edificações.
 
-Nos somos uma SkyFarm Technologies que fazemos o levantamento e analisamos as requisições para desenvolver um sistema para as fazendas urbanas que buscam inovação, um sistema de controle de gestão, pra área de segurança alimentar.
+SkyFarm Technologies levantou e analisou as requisições para desenvolver um sistema de gestão para as fazendas pequenas urbanas que buscam inovação, um sistema de controle de gestão, pra área de segurança alimentar.
 
 Necessario no sistema tem q ter:
  - Controle de fornecedores;
@@ -14,30 +14,23 @@ Necessario no sistema tem q ter:
 ## Backlog do Produto
 **Tópico 1: Controle de Fornecedores (cadastro, edição, busca)**
 - Cadastro de Fornecedores;
-- Validação de Dados;
 - Edição de Fornecedores;
 - Busca de Fornecedores;
+- Bloqueio de Fornecedores
 - Gerenciamento de Permissões.
 
 **Tópico 2: Monitorar o Ciclo de Produção de cada cultura cultivada, com tempo pré definido**
 - Cadastro de Culturas;
-- Definição do Cronograma;
-- Acompanhamento do Progresso;
-- Coleta de Dados.
+- Edição de Culturas;
+- Busca de Culturas;
+- Exclusão de Culturas;
+- Acompanhamento do Progresso.
 
 **Tópico 3: Desenvolver gráficos ou relatórios para visualização e análise dos dados de produção ao longo do tempo de cada cultura**
-- Identificação de Métricas-Chave;
 - Desenvolvimento de Gráficos;
-- Exportação de Dados.
 
 **Tópico 4: Integrar um sistema de gestão de estoque para controlar a disponibilidade dos produtos para venda**
-- Gestão de Inventário;
 - Controle de Disponibilidade;
-- Relatórios de Gestão de Estoque.
-
-**Tópico 5: Integrar alertas automatizados para indicar condições climáticas adequadas para o plantio**
-- Geração de Alertas Automatizados;
-- Notificação aos Usuários.
 
 ## Backlog Técnico 
 - Banco de Dados: SQL para armazenar informações sobre fornecedores, produção e serviços.
