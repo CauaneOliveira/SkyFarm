@@ -1,0 +1,27 @@
+<mxfile host="app.diagrams.net" modified="2024-05-02T01:56:03.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="Xg0DnedIAJ37AEF3aiUz" version="24.3.1" type="google">
+  <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tnVxngjOzw4EzdRrYc25-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=55;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tnVxngjOzw4EzdRrYc25-2" target="tnVxngjOzw4EzdRrYc25-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="416.66666666666674" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tnVxngjOzw4EzdRrYc25-2" value="Colaboradores" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="305" y="367" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tnVxngjOzw4EzdRrYc25-3" value="Interface&lt;div&gt;(UI)&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="412" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tnVxngjOzw4EzdRrYc25-5" value="Servidor de Aplicação" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="615" y="361.9966666666668" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tnVxngjOzw4EzdRrYc25-6" value="Figma&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="402" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
