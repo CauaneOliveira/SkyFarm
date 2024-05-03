@@ -2,17 +2,17 @@ Tópico 1 - Controle de Fornecedores
 
 Tasks:
 
-- Tela de Login (Eduarda) - (2 dias, 2 horas)
+- Tela de Login (Eduarda)
 Criação do modelo de interface da tela de login do sistema do usuário da fazenda no figma.
 
-- Cadastro de Forncedores - CRUD (C#) (Caio) - (3 dias, 5 horas)
+- Cadastro de Forncedores - CRUD (C#) (Caio)
 Desenvolvimento da função de cadastro de fornecedores do sistema.
 
-- Modelo Relacional - Fornecedores (Bruna) - (2 dias, 3 horas)
+- Modelo Relacional - Fornecedores (Bruna)
 Continuação da modelagem do banco de dados do sistema, na parte de fornecedores, realizando as relações entre as entidades e especificação de atributos, chaves primárias, chaves estrangeiras, entre outros.
 
-- Caso de Uso Cadastro - Fornecedores (Cauane) - (3 dias, 3 horas)
+- Caso de Uso Cadastro - Fornecedores (Cauane)
 Criação do diagrama de caso de uso de fornecedores na parte de cadastro, seguindo as ações e relações necessárias e possíveis do sistema.
 
-- Introdução (Cauane) - (1 dia, 2 horas)
+- Introdução (Cauane)
 Realização do desenvolvimento da introdução do projeto na documentação, apontando os objetivos, apresentação da empresa e do sistema.
