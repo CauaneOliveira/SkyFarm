@@ -46,6 +46,9 @@ Necessario no sistema tem q ter:
 - O sistema deve garantir a segurança dos dados dos clientes e fornecedores, conforme as regulamentações aplicáveis.
 - O sistema deve garantir a conformidade com regulamentações de Segurança Alimentar.
 
+## MVP
+ ![Mvp](https://github.com/CauaneOliveira/fazendasurbanasIII/assets/67593901/3616356f-93a5-49f8-9526-10b3c0f70d6f)
+
 ## Recursos
 - Interface Figma: https://www.figma.com/file/28gsd8QRZt9e3q6m2GzM1c/Untitled?type=design&node-id=0-1&mode=design&t=pALKxUwjtSoSAoVX-0
 
@@ -55,3 +58,4 @@ Necessario no sistema tem q ter:
 - **Dev Team:**
   - @Eduarda
   - @CaioPichler
+
