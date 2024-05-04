@@ -47,7 +47,8 @@ Necessario no sistema tem q ter:
 - O sistema deve garantir a conformidade com regulamentações de Segurança Alimentar.
 
 ## MVP
- ![MVP](https://github.com/CauaneOliveira/fazendasurbanasIII/assets/67593901/eefea2b2-2fbe-47d9-9037-03f58f9c1880)
+  ![MVP](https://github.com/CauaneOliveira/fazendasurbanasIII/assets/67593901/a7d4607b-8557-46cf-b314-c2066c5fde6c)
+
 
 
 ## Recursos
