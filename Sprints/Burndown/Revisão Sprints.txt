@@ -1,0 +1,9 @@
+Realização da revisão das sprints, semanalmente editado.
+
+Sprint 1 - Todos cumpriram com a realização das tarefaz no prazo indicado (1 semana), sem atrasos. Por estar no começo, não tivemos dificuldade de alinhamento de informações.
+
+Sprint 2 - Um integrante teve pendência de tarefa pelo alinhamento incorreto de informações (entendimento errado sobre a criação da tela de interface), porém os outros realizaram as tarefas no prazo estabelecido (1 semana).
+
+Sprint 3 - Um integrante teve pendência de tarefa por motivos pessoais, na parte do desenvolvimento do CRUD. Os outros integrantes finalizaram a tempo do prazo estabelecido (1 semana), incluindo a integrante com tarefa pendente da sprint anterior, e alguns até finalizaram antes do prazo.
+
+Sprint 4 - Não houvemos pendência nessa sprint. Todos conseguiram entregar dentro do prazo de acordo com o que era pedido na task.
