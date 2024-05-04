@@ -3,13 +3,12 @@
 ## Descrição
 Fazendas urbanas são espaços concebidos e otimizados para a produção de frutas, hortaliças e vegetais diversos em meio a grandes cidades. As produções são verticalizadas e podem ser instaladas nas coberturas dos prédios ou em estufas agrícolas anexas às edificações.
 
-SkyFarm Technologies levantou e analisou as requisições para desenvolver um sistema de gestão para as fazendas pequenas urbanas que buscam inovação, um sistema de controle de gestão, pra área de segurança alimentar.
+SkyFarm Technologies um sistema de gestão para as fazendas pequenas urbanas que buscam inovação, um sistema de controle de gestão completa em uma só plataforma
 
 Necessario no sistema tem q ter:
  - Controle de fornecedores;
  - Gerenciamento da produção;
  - Venda dos produtos ou prestação de serviços.
-
 
 ## Backlog do Produto
 **Tópico 1: Controle de Fornecedores (cadastro, edição, busca)**
@@ -40,16 +39,14 @@ Necessario no sistema tem q ter:
 - Garantir a conformidade com regulamentações de Segurança Alimentar e Proteção de Dados.
 
 ## Critérios de Aceitação
-- Os usuários devem conseguir cadastrar, editar e excluir fornecedores de forma intuitiva.
-- Gestao adquada da produção dos cultivos
+- Os usuários devem conseguir cadastrar, editar e excluir/bloqueio fornecedores de forma intuitiva.
+- Gestao adquada da produção dos cultivos.
 - O sistema deve apresentar relatórios claros e precisos sobre a produção em diferentes períodos de tempo.
 - O sistema deve garantir a segurança dos dados dos clientes e fornecedores, conforme as regulamentações aplicáveis.
 - O sistema deve garantir a conformidade com regulamentações de Segurança Alimentar.
 
 ## MVP
   ![MVP](https://github.com/CauaneOliveira/fazendasurbanasIII/assets/67593901/a7d4607b-8557-46cf-b314-c2066c5fde6c)
-
-
 
 ## Recursos
 - Interface Figma: https://www.figma.com/file/28gsd8QRZt9e3q6m2GzM1c/Untitled?type=design&node-id=0-1&mode=design&t=pALKxUwjtSoSAoVX-0
