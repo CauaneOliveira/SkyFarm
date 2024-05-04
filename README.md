@@ -47,7 +47,8 @@ Necessario no sistema tem q ter:
 - O sistema deve garantir a conformidade com regulamentações de Segurança Alimentar.
 
 ## MVP
- ![Mvp](https://github.com/CauaneOliveira/fazendasurbanasIII/assets/67593901/3616356f-93a5-49f8-9526-10b3c0f70d6f)
+ ![MVP](https://github.com/CauaneOliveira/fazendasurbanasIII/assets/67593901/eefea2b2-2fbe-47d9-9037-03f58f9c1880)
+
 
 ## Recursos
 - Interface Figma: https://www.figma.com/file/28gsd8QRZt9e3q6m2GzM1c/Untitled?type=design&node-id=0-1&mode=design&t=pALKxUwjtSoSAoVX-0
