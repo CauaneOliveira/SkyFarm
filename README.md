@@ -55,6 +55,6 @@ Necessario no sistema tem q ter:
 - **Scrum Master:** @BuSilv
 - **Product Owner:** @CauaneOliveira
 - **Dev Team:**
-  - @Eduarda
+  - @Duh226
   - @CaioPichler
 
