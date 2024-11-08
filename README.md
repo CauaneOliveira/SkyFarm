@@ -3,7 +3,7 @@
 ## Descrição
 Fazendas urbanas são espaços concebidos e otimizados para a produção de frutas, hortaliças e vegetais diversos em meio a grandes cidades. As produções são verticalizadas e podem ser instaladas nas coberturas dos prédios ou em estufas agrícolas anexas às edificações.
 
-SkyFarm Technologies um sistema de gestão para as fazendas pequenas urbanas que buscam inovação, um sistema de controle de gestão completa em uma só plataforma
+SkyFarm Technologies um sistema de gestão para as fazendas pequenas urbanas que buscam inovação, um sistema de controle de gestão completa em uma só plataforma. Documentação e planejamento
 
 Necessario no sistema tem q ter:
  - Controle de fornecedores;
